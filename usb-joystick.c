@@ -1,4 +1,6 @@
- /* Keyboard example for Teensy USB Development Board
+ /*
+ * usb-joystick, (C) 2014 Juha Turunen
+ * Adapted from "Keyboard example for Teensy USB Development Board"
  * http://www.pjrc.com/teensy/usb_keyboard.html
  * Copyright (c) 2008 PJRC.COM, LLC
  * 
