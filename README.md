@@ -56,4 +56,5 @@ Also now would be a perfect time to flash the firmware on the chip, because you 
 
 #### Step 9: Congratulate yourself on a job well done and indulge in emulated classic gaming
 Turns out the strain relief on the random USB cable I picked is a snug fit with the hole in the casing of the joystick. Perfect. 
+
 ![](https://github.com/elpuri/usb-joystick/blob/master/photos/9.jpg?raw=true)
